@@ -1,29 +1,12 @@
 ---
 layout: page
-title: About
+title: API Overview
 permalink: /about/
 ---
+# API Overview
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Do you sell or bulk purchase customised clothing and require a company to do the fulfilment? With the Clothes2order ordering API, you can set up your own website or other ordering medium and send orders directly to us electronically in real time. We’ll then dispatch the completed order straight to you or your customer.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+<img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" />
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Every order placed via our API receives the same expert service as any other Clothes2order order, so you can sure of receiving the best possible end result when ordering with us. To find out more about our API and view in depth technical specifications, please click the links on the left hand side.
