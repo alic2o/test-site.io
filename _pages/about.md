@@ -3,7 +3,6 @@ layout: page
 title: API Overview
 permalink: /about/
 ---
-# API Overview
 
 Do you sell or bulk purchase customised clothing and require a company to do the fulfilment? With the Clothes2order ordering API, you can set up your own website or other ordering medium and send orders directly to us electronically in real time. We’ll then dispatch the completed order straight to you or your customer.
 
